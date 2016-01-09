@@ -1,2 +1,3 @@
 # study
-a folder fro study
+a folder for study
+My first repository on Github
